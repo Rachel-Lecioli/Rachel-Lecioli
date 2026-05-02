@@ -13,8 +13,11 @@ Estudante de Análise e Desenvolvimento de Sistemas e profissional de TI com exp
 
 <p align="left">
 
-<a href="[https://linkedin.com/in/www.linkedin.com/in/rachel-galvão-lecioli-a2346a16a](https://www.linkedin.com/in/rachel-galv%C3%A3o-lecioli-a2346a16a/)">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/rachel-galv%C3%A3o-lecioli-a2346a16a/" target="_blank">
+  <img 
+    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
 
 <a href="https://instagram.com/quel_._galvao">
