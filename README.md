@@ -7,7 +7,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Estudante de Análise e Desenvolvimento de Sistemas e profissional de TI com experiência prática em análise, implantação e suporte a sistemas corporativos. Atualmente direciono minha carreira para o desenvolvimento full-stack, buscando transformar problemas reais em soluções eficientes que integrem tecnologia e visão de negócio. Neste perfil compartilho projetos, estudos e experimentações que acompanham minha evolução contínua como Desenvolvedora Júnior.
+Estudante de Análise e Desenvolvimento de Sistemas e profissional de TI com experiência prática em análise, implantação e suporte a sistemas corporativos. Atualmente direciono minha carreira para o desenvolvimento full-stack, buscando transformar problemas reais em soluções eficientes que integrem tecnologia e visão de negócio. Neste perfil compartilho projetos, estudos e experimentações que acompanham minha evolução contínua como Desenvolvedora.
 
 ---
 
