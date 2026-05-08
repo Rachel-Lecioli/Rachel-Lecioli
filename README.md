@@ -62,6 +62,24 @@ Estudante de Análise e Desenvolvimento de Sistemas e profissional de TI com exp
 />
 
 <img 
+    align="left" 
+    alt="AJAX" 
+    title="AJAX" 
+    width="30px" 
+    style="padding-right:10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ajax/ajax-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="JSON" 
+    title="JSON" 
+    width="30px" 
+    style="padding-right:10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg"
+/>
+
+<img 
     align="left"
     alt="Python"
     title="Python"
